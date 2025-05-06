@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-8 leading-tight">
-            Domine o Tráfego Pago e Lucre Todos os Dias
+            Venda todos os dias com Tráfego pago
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-200 mb-12 leading-relaxed">
